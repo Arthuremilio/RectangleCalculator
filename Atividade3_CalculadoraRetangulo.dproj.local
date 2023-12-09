@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/07 17:20:34.000.537,=C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/07 17:21:19.000.927,C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Arthur Fonseca\Documents\Atividade 3\CalculadoraRetangulo.dfm</Transaction>
+    <Transaction>2023/11/07 17:21:19.000.927,C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Arthur Fonseca\Documents\Atividade 3\CalculadoraRetangulo.pas</Transaction>
+    <Transaction>2023/11/07 17:21:37.000.474,C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Arthur Fonseca\Documents\Atividade 3\Atividade3_CalculadoraRetangulo.dproj</Transaction>
+    <Transaction>2023/11/07 17:31:45.000.826,=C:\Users\Arthur Fonseca\Documents\Atividade 3\Unit1.pas</Transaction>
+    <Transaction>2023/11/07 17:32:37.000.957,C:\Users\Arthur Fonseca\Documents\Atividade 3\Unit1.pas=C:\Users\Arthur Fonseca\Documents\Atividade 3\Classes\Core.Classes.pas</Transaction>
+  </Transactions>
+</BorlandProject>

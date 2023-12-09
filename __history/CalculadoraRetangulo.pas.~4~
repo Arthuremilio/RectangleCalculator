@@ -1,0 +1,48 @@
+unit CalculadoraRetangulo;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Core.Classes;
+
+type
+  TfrmCalculadoraRetangulo = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    edtAltura: TEdit;
+    edtLargura: TEdit;
+    GroupBox1: TGroupBox;
+    lblRetorno: TLabel;
+    btnCalcular: TButton;
+  private
+    procedure Calcular;
+  public
+    { Public declarations }
+  end;
+
+var
+  frmCalculadoraRetangulo: TfrmCalculadoraRetangulo;
+
+implementation
+
+{$R *.dfm}
+
+{ TfrmCalculadoraRetangulo }
+
+procedure TfrmCalculadoraRetangulo.Calcular;
+var
+  Retangulo: TRetangulo;
+
+begin
+  try
+
+  finally
+    MyClass.Free;
+  end;
+
+
+end;
+
+end.
